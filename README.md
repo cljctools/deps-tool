@@ -3,6 +3,8 @@ a tool allowing js- and -jvm languages to install clj/cljs/cljc + deps.edn code 
 
 <img width="300px" src="./docs/ace-ventura-jim-carrey-rhino.jpg"></img>
 
+*Jim Carrey, Ace Ventura 2*
+
 ## rationale
 
 - intial notes https://github.com/sergeiudris/ipfs-lab/issues/5#issuecomment-786440096
