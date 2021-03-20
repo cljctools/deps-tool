@@ -3,7 +3,6 @@ a tool allowing js- and -jvm languages to install clj/cljs/cljc + deps.edn code 
 
 ## rationale
 
-- intial notes https://github.com/sergeiudris/ipfs-lab/issues/5#issuecomment-786440096
 - with golang and clojure we can require code direclty from github, for example
 ```clojure
 {:deps {clj.native-image/clj.native-image
