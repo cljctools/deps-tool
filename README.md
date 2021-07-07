@@ -1,6 +1,8 @@
 # deps-tool
 a tool allowing js- and -jvm languages to install clj/cljs/cljc + deps.edn code from github, like golang and clojure do 
 
+[merged into https://github.com/cljctools/cljctools]
+
 ## deprecated
 
 - practically clojure(script) libraries be used from js/jvm? yes, in theory, but practically - no
