@@ -3,6 +3,14 @@ a tool allowing js- and -jvm languages to install clj/cljs/cljc + deps.edn code 
 
 [merged into https://github.com/cljctools/cljctools]
 
+## deprecated
+
+- practically clojure(script) libraries be used from js/jvm? yes, in theory, but practically - no
+- functions return datastructures and core.async channels, that are not convinietly usable directly on jvm/js (well, from java they are, as all other classes, but no go blocks etc.)
+- unless some insane layer of porting it back, which makes no sense
+- development of apps and tools should be in parallel when different languages, clojure(script) having an advantage of having interoperabilty and being able to use libs directly
+
+
 ## rationale
 
 - with golang and clojure we can require code direclty from github, for example
